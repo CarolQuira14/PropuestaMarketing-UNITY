@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Projects\\AstroBarProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C39973-7A99-51F4-2D76-8401CB34C6BA}|Assembly-CSharp.csproj|d:\\unity projects\\astrobarproject\\assets\\scripts\\jugadoresmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C39973-7A99-51F4-2D76-8401CB34C6BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jugadoresmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C39973-7A99-51F4-2D76-8401CB34C6BA}|Assembly-CSharp.csproj|d:\\unity projects\\astrobarproject\\assets\\scripts\\rankingmostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C39973-7A99-51F4-2D76-8401CB34C6BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rankingmostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C39973-7A99-51F4-2D76-8401CB34C6BA}|Assembly-CSharp.csproj|d:\\unity projects\\astrobarproject\\assets\\scripts\\jugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C39973-7A99-51F4-2D76-8401CB34C6BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C39973-7A99-51F4-2D76-8401CB34C6BA}|Assembly-CSharp.csproj|d:\\unity projects\\astrobarproject\\assets\\scripts\\barra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C39973-7A99-51F4-2D76-8401CB34C6BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\barra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "barra.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\AstroBarProject\\Assets\\scripts\\barra.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\barra.cs",
+              "ToolTip": "D:\\Unity Projects\\AstroBarProject\\Assets\\scripts\\barra.cs",
+              "RelativeToolTip": "Assets\\scripts\\barra.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwF0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:30:53.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jugadoresManager.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\AstroBarProject\\Assets\\scripts\\jugadoresManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\jugadoresManager.cs",
+              "ToolTip": "D:\\Unity Projects\\AstroBarProject\\Assets\\scripts\\jugadoresManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\jugadoresManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:48:21.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rankingMostrar.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\AstroBarProject\\Assets\\scripts\\rankingMostrar.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\rankingMostrar.cs",
+              "ToolTip": "D:\\Unity Projects\\AstroBarProject\\Assets\\scripts\\rankingMostrar.cs",
+              "RelativeToolTip": "Assets\\scripts\\rankingMostrar.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:53:30.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jugadores.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\AstroBarProject\\Assets\\scripts\\jugadores.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\jugadores.cs",
+              "ToolTip": "D:\\Unity Projects\\AstroBarProject\\Assets\\scripts\\jugadores.cs",
+              "RelativeToolTip": "Assets\\scripts\\jugadores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:49:11.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
