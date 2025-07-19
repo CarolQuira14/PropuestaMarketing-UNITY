@@ -1,4 +1,4 @@
-# 🚀 Go Astro with Just a Bite
+#  Go Astro with Just a Bite
 
 **Tipo de proyecto:** Advergame 2D hipercasual – Experiencia interactiva de marca  
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📘 Descripción general
+##  Descripción general
 
 **"Go Astro with Just a Bite"** es un juego 2D hipercasual creado como una **experiencia multimedia interactiva (EMI)** para la marca de barritas energéticas **AstroBite**. Fue diseñado con el objetivo de fortalecer la conexión entre el producto y su promesa: **una sola barrita puede darte la energía suficiente para despegar**... literalmente.
 
@@ -20,23 +20,23 @@ En este juego, el usuario debe **detener una barra de energía fluctuante** en e
 
 ---
 
-## 🛠️ Funcionalidades clave
+##  Funcionalidades clave
 
-- 🚀 **Mecánica de reacción en tiempo real:** Una barra de energía cambia constantemente de valor entre 0 y 10; el jugador debe detenerla en el punto más alto posible para impulsar el cohete.
+-  **Mecánica de reacción en tiempo real:** Una barra de energía cambia constantemente de valor entre 0 y 10; el jugador debe detenerla en el punto más alto posible para impulsar el cohete.
 
-- 🌌 **Progresión visual basada en energía:** Una sola barra activa el despegue, pero acumular varias mejora la distancia alcanzada en el espacio, creando una recompensa visual clara.
+-  **Progresión visual basada en energía:** Una sola barra activa el despegue, pero acumular varias mejora la distancia alcanzada en el espacio, creando una recompensa visual clara.
 
-- 🎯 **Sistema de puntaje alto:** El juego registra los puntajes más altos para fomentar la rejugabilidad y la competitividad.
+-  **Sistema de puntaje alto:** El juego registra los puntajes más altos para fomentar la rejugabilidad y la competitividad.
 
-- 🧾 **Registro de datos en JSON:** Los puntajes y nombres de los jugadores son almacenados localmente en un archivo JSON, permitiendo recuperar y gestionar la información posteriormente.
+-  **Registro de datos en JSON:** Los puntajes y nombres de los jugadores son almacenados localmente en un archivo JSON, permitiendo recuperar y gestionar la información posteriormente.
 
-- 🎁 **Integración con recompensas de marca:** Los jugadores con mejores resultados pueden ser contactados por **AstroBite** para recibir **merchandising o barritas gratis**, fomentando la fidelización.
+-  **Integración con recompensas de marca:** Los jugadores con mejores resultados pueden ser contactados por **AstroBite** para recibir **merchandising o barritas gratis**, fomentando la fidelización.
 
-- 🧍‍♂️ **Diseño colaborativo:** El proyecto fue conceptualizado y desarrollado por mí en conjunto con una compañera, integrando diseño visual, mecánicas y narrativa publicitaria de forma coherente.
+-  **Diseño colaborativo:** El proyecto fue conceptualizado y desarrollado por mí en conjunto con una compañera, integrando diseño visual, mecánicas y narrativa publicitaria de forma coherente.
 
 ---
 
-## 🎯 Propósito del proyecto
+##  Propósito del proyecto
 
 - Crear una experiencia rápida, divertida y memorable que asocie positivamente la marca AstroBite con energía, acción y efectividad.
 - Aplicar principios de gamificación como recompensa, reflejo inmediato del rendimiento y competición entre usuarios.
@@ -44,19 +44,19 @@ En este juego, el usuario debe **detener una barra de energía fluctuante** en e
 
 ---
 
-## 🧠 Potencial en entornos E-learning o marketing
+##  Potencial en entornos E-learning o marketing
 
 Este tipo de experiencia es un ejemplo claro de:
 
-- 🎮 **Advergaming educativo o comercial**
-- 🚀 **Gamificación para refuerzo de marca**
-- 📊 **Registro y análisis de rendimiento del usuario**
-- 🧠 **Diseño instruccional lúdico aplicado a marketing**
+-  **Advergaming educativo o comercial**
+-  **Gamificación para refuerzo de marca**
+-  **Registro y análisis de rendimiento del usuario**
+-  **Diseño instruccional lúdico aplicado a marketing**
 
 Puede inspirar modelos similares en campañas educativas o de concientización que busquen **involucrar activamente al usuario con un mensaje central**.
 
 ---
-👤 Autores
+ Autores
 Joan Sebastian Salcedo
 Diseño front UX/UI, desarrollo en Unity, lógica de juego, sistema de guardado.
 LinkedIn
