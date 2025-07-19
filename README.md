@@ -1,10 +1,15 @@
 # 🚀 Go Astro with Just a Bite
 
 **Tipo de proyecto:** Advergame 2D hipercasual – Experiencia interactiva de marca  
-**Plataforma:** Windows  
+
+**Plataforma:** Windows
+
 **Tecnología:** Unity 2D (versión 2022.3.36f1)
+
 **Cliente:** AstroBite – Barritas energéticas (Empresa ficticia)
+
 **Ver proyecto:** En este link encontraras un video tipo "gameplay" del proyecto: 
+
 ---
 
 ## 📘 Descripción general
