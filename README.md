@@ -56,11 +56,14 @@ Este tipo de experiencia es un ejemplo claro de:
 Puede inspirar modelos similares en campañas educativas o de concientización que busquen **involucrar activamente al usuario con un mensaje central**.
 
 ---
- Autores
+## Autores
+
 Joan Sebastian Salcedo
+
 Diseño front UX/UI, desarrollo en Unity, lógica de juego, sistema de guardado.
 LinkedIn
 
 Carol Quira
+
 Programadora backend, desarrollo en Unity(opcional)
 Colaboración en diseño narrativo y visual.
