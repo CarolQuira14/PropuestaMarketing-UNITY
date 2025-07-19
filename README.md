@@ -58,12 +58,12 @@ Puede inspirar modelos similares en campañas educativas o de concientización q
 ---
 ## Autores
 
-*Joan Sebastian Salcedo*
+**Joan Sebastian Salcedo**
 
 Diseño front UX/UI, desarrollo en Unity, lógica de juego, sistema de guardado.
 LinkedIn
 
-*Carol Quira*
+**Carol Quira**
 
 Programadora backend, desarrollo en Unity(opcional)
 Colaboración en diseño narrativo y visual.
