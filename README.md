@@ -8,7 +8,7 @@
 
 **Cliente:** AstroBite – Barritas energéticas (Empresa ficticia)
 
-**Ver proyecto:** En este link encontraras un video tipo "gameplay" del proyecto: 
+**Ver proyecto:** En este link encontraras un video tipo "gameplay" del proyecto: https://youtu.be/iZiOYdnEuOc
 
 ---
 
