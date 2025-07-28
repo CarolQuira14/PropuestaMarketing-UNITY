@@ -60,9 +60,13 @@ Puede inspirar modelos similares en campañas educativas o de concientización q
 
 **Joan Sebastian Salcedo**
 
-Diseño front UX/UI, desarrollo en Unity, lógica de juego, sistema de guardado.
+- Diseño front UX/UI
+- desarrollo en Unity
+- lógica de juego
+- sistema de guardado.
 
 **Carol Quira**
-
-Programadora backend, desarrollo en Unity(opcional)
-Colaboración en diseño narrativo y visual.
+- github: https://github.com/CarolQuira14
+- Programadora backend 
+- Desarrollo en Unity
+- Diseño narrativo y visual.
