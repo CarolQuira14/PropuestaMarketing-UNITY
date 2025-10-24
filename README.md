@@ -96,6 +96,14 @@ Este proyecto es un ejemplo aplicado de:
 
 Este proyecto fue desarrollado con fines académicos. No está asociado a ninguna marca real. Puedes usarlo como referencia educativa.
 ---
+## 📩 Contacto
 
+Para saber más sobre este proyecto o ver otros trabajos:
+
+**Carol Natalia Quira Campo** – Developer  
+📧 Email: carolquira14@gmail.com  
+🐙 GitHub: https://github.com/CarolQuira14  
+---
 ¡Gracias por visitar el proyecto! Si te interesa colaborar o desarrollar un advergame similar, no dudes en contactarnos. 🚀
+
 
