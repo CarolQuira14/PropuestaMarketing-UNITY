@@ -1,72 +1,101 @@
-#  Go Astro with Just a Bite
+# 🚀 Go Astro with Just a Bite
 
-**Tipo de proyecto:** Advergame 2D hipercasual – Experiencia interactiva de marca  
-
-**Plataforma:** Windows
-
-**Tecnología:** Unity 2D (versión 2022.3.36f1)
-
-**Cliente:** AstroBite – Barritas energéticas (Empresa ficticia)
-
-**Ver proyecto:** En este link encontraras un video tipo "gameplay" del proyecto: https://youtu.be/iZiOYdnEuOc
+**Tipo de proyecto:** Advergame 2D hipercasual  
+**Plataforma:** Windows  
+**Tecnología:** Unity 2D (versión 2022.3.36f1)  
+**Cliente:** AstroBite – Barritas energéticas *(Empresa ficticia)*  
+**Video del proyecto:** https://youtu.be/iZiOYdnEuOc  
 
 ---
 
-##  Descripción general
+## 🎮 Descripción General
 
-**"Go Astro with Just a Bite"** es un juego 2D hipercasual creado como una **experiencia multimedia interactiva (EMI)** para la marca de barritas energéticas **AstroBite**. Fue diseñado con el objetivo de fortalecer la conexión entre el producto y su promesa: **una sola barrita puede darte la energía suficiente para despegar**... literalmente.
+**Go Astro with Just a Bite** es un advergame hipercasual desarrollado como una **Experiencia Multimedia Interactiva (EMI)** para la marca ficticia de barritas energéticas **AstroBite**.
 
-En este juego, el usuario debe **detener una barra de energía fluctuante** en el momento justo para impulsar un cohete al espacio. Cuanto más precisa sea la detención (siendo 10 el valor máximo), más lejos viajará el cohete. La narrativa refuerza el mensaje central de la marca: **"una sola barrita basta para despegar"**, mientras que obtener más barritas permite al jugador llegar aún más lejos.
+La premisa del juego refuerza el concepto de la marca:  
+> **"Una sola barrita basta para despegar"**
 
----
-
-##  Funcionalidades clave
-
--  **Mecánica de reacción en tiempo real:** Una barra de energía cambia constantemente de valor entre 0 y 10; el jugador debe detenerla en el punto más alto posible para impulsar el cohete.
-
--  **Progresión visual basada en energía:** Una sola barra activa el despegue, pero acumular varias mejora la distancia alcanzada en el espacio, creando una recompensa visual clara.
-
--  **Sistema de puntaje alto:** El juego registra los puntajes más altos para fomentar la rejugabilidad y la competitividad.
-
--  **Registro de datos en JSON:** Los puntajes y nombres de los jugadores son almacenados localmente en un archivo JSON, permitiendo recuperar y gestionar la información posteriormente.
-
--  **Integración con recompensas de marca:** Los jugadores con mejores resultados pueden ser contactados por **AstroBite** para recibir **merchandising o barritas gratis**, fomentando la fidelización.
-
--  **Diseño colaborativo:** El proyecto fue conceptualizado y desarrollado por mí en conjunto con una compañera, integrando diseño visual, mecánicas y narrativa publicitaria de forma coherente.
+El jugador debe detener una barra de energía en el momento preciso para impulsar un cohete al espacio. Cuanto más alto sea el nivel de energía (máximo 10), mayor será la distancia alcanzada. El juego combina mecánicas sencillas con narrativa persuasiva para generar recordación de marca.
 
 ---
 
-##  Propósito del proyecto
+## ✨ Características Principales
 
-- Crear una experiencia rápida, divertida y memorable que asocie positivamente la marca AstroBite con energía, acción y efectividad.
-- Aplicar principios de gamificación como recompensa, reflejo inmediato del rendimiento y competición entre usuarios.
-- Integrar el producto dentro de una narrativa simbólica para **reforzar su valor diferencial**.
+✅ **Mecánica principal de precisión:** barra de energía fluctuante entre 0 y 10  
+✅ **Progresión visual del viaje espacial** según rendimiento del jugador  
+✅ **Sistema de puntajes y tabla de high scores**  
+✅ **Guardado local de datos en JSON**  
+✅ **Integración publicitaria no intrusiva (branding)**  
+✅ **Experiencia rápida, rejugable y competitiva**  
+
+---
+
+## 🎯 Objetivo del Proyecto
+
+- Construir una experiencia interactiva ligada al storytelling de marca  
+- Incentivar la recordación del producto mediante **gamificación**  
+- Motivar la repetición a través del sistema de puntajes  
+- Demostrar que un advergame puede ser una herramienta efectiva en marketing digital
 
 ---
 
-##  Potencial en entornos E-learning o marketing
+## 🧩 Potencial y Aplicaciones
 
-Este tipo de experiencia es un ejemplo claro de:
+Este proyecto es un ejemplo aplicado de:
 
--  **Advergaming educativo o comercial**
--  **Gamificación para refuerzo de marca**
--  **Registro y análisis de rendimiento del usuario**
--  **Diseño instruccional lúdico aplicado a marketing**
-
-Puede inspirar modelos similares en campañas educativas o de concientización que busquen **involucrar activamente al usuario con un mensaje central**.
+- ✅ **Advergaming comercial**
+- ✅ **Gamificación para engagement**
+- ✅ **Marketing interactivo**
+- ✅ **Narrativa de marca**
+- ✅ **Experiencias multimedia educativas o promocionales**
 
 ---
-## Autores
 
-**Joan Sebastian Salcedo**
+## 🛠️ Tecnologías Utilizadas
 
-- Diseño front UX/UI
-- desarrollo en Unity
-- lógica de juego
-- sistema de guardado.
+| Herramienta | Uso |
+|--------------|-----|
+| Unity 2D     | Motor de desarrollo |
+| C#           | Lógica de juego |
+| JSON         | Almacenamiento local |
+| Photoshop/Illustrator | Diseño de assets visuales |
+| Audacity     | Edición básica de audio |
 
-**Carol Quira**
-- github: https://github.com/CarolQuira14
-- Programadora backend 
-- Desarrollo en Unity
-- Diseño narrativo y visual.
+---
+
+## 👥 Autores
+
+### **Carol Natalia Quira Campo**  
+🔹 GitHub: [https://github.com/CarolQuira14  ](https://github.com/CarolQuira14)
+- Programadora en Unity  
+- Diseño narrativo y visual  
+- Animaciones 2D  
+- Organización y optimización de sprites  
+- Interfaz gráfica (UI)  
+
+### **Joan Sebastián Salcedo**
+🔹 GitHub: [https://github.com/CarolQuira14 ](https://github.com/joansalcedo1) 
+- Diseño UX/UI inicial  
+- Desarrollo en Unity  
+- Lógica del minijuego principal  
+- Sistema de guardado en JSON  
+
+> Nota: Al tratarse de un proyecto académico pequeño tipo advergame, **no se realizó gestión de versiones ni scrum formal**.
+
+---
+
+## 📌 Estado del Proyecto
+
+✅ Finalizado – versión académica  
+📦 No se realizaron builds públicas  
+🛠️ Abierto a mejoras futuras
+
+---
+
+## 📜 Licencia
+
+Este proyecto fue desarrollado con fines académicos. No está asociado a ninguna marca real. Puedes usarlo como referencia educativa.
+---
+
+¡Gracias por visitar el proyecto! Si te interesa colaborar o desarrollar un advergame similar, no dudes en contactarnos. 🚀
+
